@@ -52,7 +52,8 @@ I'm Md Junaed, a passionate **MERN Stack Developer** from Dhaka, Bangladesh. I s
 
 - **Website**: [www.junaed.dev](https://www.junaed.dev)
 - **LinkedIn**: [linkedin.com/in/junaed-mern-dev](https://www.linkedin.com/in/junaed-mern-dev)
-- **Email**: junaed.freelance@gmail.com
+- **Email**: junaed.kpi@gmail.com
+- **Email**: contact@junaed.dev
 
 ---
 
